@@ -4,12 +4,12 @@ credentials:
     akhadkhon:
       email: akhadkhon@example.com
       name: Akhadkhon
-      password: pbkdf2:sha256:260000$VbTn7Uy8pqOE$e11168f1639f6bc95cfeeb6c223f77664b17d6ec3a2b690d88f5e6f6bc2a9e2d  # password123
+      password: pbkdf2:sha256:260000$test$5b3c53a054534cd9a1f257f3d458c02b456a585146b74d8e76398e6d9ddfc8a4
 
 cookie:
-  name: house_finder_cookie
-  key: some_signature_key
-  expiry_days: 3
+  name: house_cookie
+  key: abc123key
+  expiry_days: 5
 
 preauthorized:
   emails:

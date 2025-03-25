@@ -1,8 +1,0 @@
-streamlit
-pandas
-folium
-streamlit-folium
-joblib
-xgboost
-scikit-learn
-openpyxl

@@ -1,16 +1,11 @@
-
 credentials:
   usernames:
     akhadkhon:
-      email: akhadkhon@example.com
+      email: axadxon.muhiddinov01@gmail.com
       name: Akhadkhon
       password: pbkdf2:sha256:260000$test$5b3c53a054534cd9a1f257f3d458c02b456a585146b74d8e76398e6d9ddfc8a4
 
 cookie:
   name: house_cookie
   key: abc123key
-  expiry_days: 5
-
-preauthorized:
-  emails:
-    - akhadkhon@example.com
+  expiry_days: 10
